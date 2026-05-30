@@ -226,7 +226,9 @@ async function loadMemories() {
       theme.accent ? `--memory-accent: ${theme.accent}` : "",
       theme.secondary ? `--memory-secondary: ${theme.secondary}` : "",
       theme.glow ? `--memory-glow: ${theme.glow}` : "",
-      theme.paper ? `--memory-paper: ${theme.paper}` : ""
+      theme.paper ? `--memory-paper: ${theme.paper}` : "",
+      theme.imageFit ? `--memory-image-fit: ${theme.imageFit}` : "",
+      theme.imagePadding ? `--memory-image-padding: ${theme.imagePadding}` : ""
     ].filter(Boolean).join("; ");
 
     return `

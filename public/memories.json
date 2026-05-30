@@ -135,12 +135,14 @@
     "title": "I Love Hersh",
     "place": "Factime!!!",
     "description": "We ate together on camera and finally started watching the movie we had always been wanting to watch: Avatar. Then you had a secret surprise for me, a presentation you made just to tell me how much you love me. As you went through what felt like an endless list of reasons, I felt like the happiest person on the planet and could not stop cheesing. It left me speechless knowing someone cares about me that much and is so happy I am part of their world.",
-    "image": "",
+    "image": "/pictures/10.png",
     "theme": {
       "accent": "#2f78aa",
       "secondary": "#2f9b81",
       "glow": "rgba(47, 120, 170, 0.22)",
-      "paper": "#f3fbff"
+      "paper": "#f3fbff",
+      "imageFit": "contain",
+      "imagePadding": "0"
     }
   },
   {

@@ -175,6 +175,8 @@ h2 {
   --memory-secondary: var(--leaf);
   --memory-glow: rgba(216, 101, 139, 0.22);
   --memory-paper: #fffdfb;
+  --memory-image-fit: cover;
+  --memory-image-padding: 0;
   position: relative;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -230,7 +232,9 @@ h2 {
   width: 100%;
   height: 100%;
   min-height: 360px;
-  object-fit: cover;
+  padding: var(--memory-image-padding);
+  object-fit: var(--memory-image-fit);
+  background: var(--memory-paper);
 }
 
 .memory-photo-empty {

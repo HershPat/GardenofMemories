@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hersh and Ananya's Story</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="site-shell">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="lotus-stage" aria-hidden="true">
+          <canvas id="lotus-canvas"></canvas>
+          <div class="water-glow"></div>
+        </div>
+
+        <div class="hero-copy">
+          <p class="eyebrow">A little garden of us</p>
+          <h1 id="hero-title">Hersh and Ananya's story</h1>
+          <p class="hero-text">
+            This is a little story about our little cheesy adventure we have been on together. It is a collection of some of my favorite moments with you, the ones that make me smile just thinking about them. I hope it makes you smile too.
+          </p>
+          <a class="primary-action" href="#timeline">Open the timeline</a>
+        </div>
+      </section>
+
+      <section class="intro-band" aria-label="Dedication">
+        <p>
+          This a story of how we met and fell in love and our journey together that made us closer with each other and made us realize that we are each other's halves.
+        </p>
+      </section>
+
+      <section class="timeline-section" id="timeline" aria-labelledby="timeline-title">
+        <div class="section-heading">
+          <p class="eyebrow">The story so far</p>
+          <h2 id="timeline-title">Moments I never want to forget</h2>
+        </div>
+
+        <div class="timeline" id="memory-timeline"></div>
+      </section>
+
+      <section class="letter-section" aria-labelledby="letter-title">
+        <div class="letter">
+          <h2 id="letter-title">Our Memory Garden</h2>
+          <p>
+            This is a memory garden, a little space to celebrate the moments that have made us who we are together. I hope it reminds you of how much I love you and how grateful I am for every moment we share.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

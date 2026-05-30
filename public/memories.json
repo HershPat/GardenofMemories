@@ -1,0 +1,160 @@
+[
+  {
+    "date": "The day we met",
+    "day": "February 21, 2026",
+    "title": "How HackHERS made us friends",
+    "place": "HackHERS hackathon",
+    "description": "We met at HackHERS after our friend put us in the same group, and somehow it just clicked. We spent the whole night working on our project, blasting music way too loud from our phones, spamming way too much Celsius, and laughing through the chaos. Somewhere in all of that, 'Big Guy' became our song and we became the kind of friends who make even a sleepless hackathon feel unforgettable.",
+    "image": "/pictures/1.jpg",
+    "theme": {
+      "accent": "#d8487e",
+      "secondary": "#1f8a8a",
+      "glow": "rgba(216, 72, 126, 0.24)",
+      "paper": "#fff7fb"
+    }
+  },
+  {
+    "date": "The Sushi Plan",
+    "day": "April 28, 2026",
+    "title": "Bull riding and Ananya's great fall",
+    "place": "Busch Dining Hall",
+    "description": "You said you wanted to get sushi with me, so we ended up at Busch Dining Hall on the perfect chaotic day. They had bull riding, an inflatable race, and the kind of random event that already felt funny before anything even happened. During our race, I remember looking back and seeing you fall backwards after climbing to the top, somehow in the most cartoon-animation way possible.",
+    "image": "/pictures/2.jpg",
+    "theme": {
+      "accent": "#e36b3f",
+      "secondary": "#2e8f68",
+      "glow": "rgba(227, 107, 63, 0.22)",
+      "paper": "#fff8f0"
+    }
+  },
+  {
+    "date": "Lego and Big Ed",
+    "day": "April 29, 2026",
+    "title": "Tiny Lego plants and rolling chair spins",
+    "place": "My gender studies classroom",
+    "description": "I asked you to watch Project Hail Mary, but when it started getting late, the plan changed in the best way. I had a Lego set with two tiny cute plants, one for each of us, so we ended up in my gender studies classroom building them together. We played 60 Day Finance in the background, spun each other around in the rolling chair, and somehow made a random late-night hangout feel like its own little world. By the end, we had built Pina Colada and Benny.",
+    "image": "/pictures/3-1.jpg",
+    "images": [
+      "/pictures/3-1.jpg",
+      "/pictures/3-2.jpg"
+    ],
+    "theme": {
+      "accent": "#6f9d57",
+      "secondary": "#d89431",
+      "glow": "rgba(111, 157, 87, 0.24)",
+      "paper": "#f8fff4"
+    }
+  },
+  {
+    "date": "Project Hail Mary",
+    "day": "April 30, 2026",
+    "title": "Milkshakes, movie snacks, and one chip regret",
+    "place": "RU Cinema",
+    "description": "We finally made the Project Hail Mary plan happen, starting at Henry's Diner with a cookies and cream milkshake and way too many snacks for the movie. We play fought through the fun parts, got quiet through the sad scenes, and then somehow decided the night needed one more terrible idea: doing the One Chip Challenge and recording it on TikTok.",
+    "image": "/pictures/4.jpg",
+    "theme": {
+      "accent": "#8f5c3d",
+      "secondary": "#b65050",
+      "glow": "rgba(143, 92, 61, 0.22)",
+      "paper": "#fff7ef"
+    }
+  },
+  {
+    "date": "The night I asked you out",
+    "day": "May 1, 2026",
+    "title": "Washington Rock and the skyline",
+    "place": "Washington Rock State Park",
+    "description": "We went to Washington Rock State Park at night, and even though you were so scared of the heights, you trusted me enough to hold my hand as I helped pull you up to the top of the rock. From up there, we could see the skyline of all the major cities around us, and everything felt calm, beautiful, and perfectly ours for a little while. Getting back down was scary too, so I told you to trust me and jump into my arms, then carried you down. On the way back, with that whole night still sitting in my heart, I finally confessed how I felt about you.",
+    "image": "/pictures/5.jpg",
+    "theme": {
+      "accent": "#365d95",
+      "secondary": "#c99b43",
+      "glow": "rgba(54, 93, 149, 0.24)",
+      "paper": "#f5f8ff"
+    }
+  },
+  {
+    "date": "Your birthday",
+    "day": "May 5, 2026",
+    "title": "The day I went all out",
+    "place": "A birthday made for you",
+    "description": "For your birthday, I wanted everything to feel special. We had matching outfits on, and somehow the whole day felt as magical as going to prom. I looked into your eyes and sang the song that always reminded me of you, 'What Makes You Beautiful.' At the park, we played a game where I basically told everyone in public that Ananya is pretty, because honestly, the world deserved to know. We took so many pictures together, and at night I read you the letter I wrote for you, gave you flowers, and surprised you with a handmade Bleach hoodie that left you completely speechless.",
+    "image": "/pictures/6.jpg",
+    "theme": {
+      "accent": "#d94f75",
+      "secondary": "#b88924",
+      "glow": "rgba(217, 79, 117, 0.24)",
+      "paper": "#fff6f7"
+    }
+  },
+  {
+    "date": "Our official first date",
+    "day": "May 13, 2026",
+    "title": "The day we made it real",
+    "place": "Zimmerli, Livi, and Washington Rock",
+    "description": "For our official first date, we started at the Zimmerli Art Museum, sinking into the comfiest bean bag couch and taking black-and-white, vintage-looking pictures of us. Then we went around car dealerships so I could show you the Porsche GT3 RS you wanted to get for me, which still makes me smile. After that, we went to Livi Dining Hall, where you showed off your waitress skills and genuinely had me stunned. We did an escape room together too, but instead of worrying about escaping, I think we were both just happy being stuck in that room together. Later that night, we went back to Washington Rock State Park, and you confessed your feelings through a poem you wrote for me. It had me in tears. Finally, we made it official and started dating for real.",
+    "image": "/pictures/7.jpg",
+    "theme": {
+      "accent": "#34363d",
+      "secondary": "#b68a3a",
+      "glow": "rgba(52, 54, 61, 0.18)",
+      "paper": "#f8f7f4"
+    }
+  },
+  {
+    "date": "The PERFECT date",
+    "day": "May 14, 2026",
+    "title": "Dinner, dancing, and Perfect",
+    "place": "Phattra Thai",
+    "description": "For our second date, we dressed up in formal clothes and went out for a real dinner together. As usual, we sang to each other on the car ride there, both of us cheesing the whole time like we could not help it. When we finally walked into Phattra Thai, the dim lights made everything feel warm and exactly right. We shared drunken noodles and Thai tea, looking into each other's eyes between bites, and the whole dinner felt almost out of this world because we felt like a true couple. Feeding each other somehow made the food taste ten times better. At the end of the night, we slow danced and waltzed to the song that felt like us: 'Perfect.'",
+    "image": "/pictures/8.jpg",
+    "theme": {
+      "accent": "#b64646",
+      "secondary": "#b8812d",
+      "glow": "rgba(182, 70, 70, 0.22)",
+      "paper": "#fff4ef"
+    }
+  },
+  {
+    "date": "The first I love you",
+    "day": "May 19, 2026",
+    "title": "The Instagram note that gave me away",
+    "place": "A late-night call",
+    "description": "It started with me trying to leave the smallest little hint on my Instagram note by playing the song 'I'm So in Love with You.' Later that night, you asked me about it, and suddenly saying what I meant felt so much harder than hinting at it. I was shaking, nervous, and trying so badly to stall, even when you kept trying to make me say the title of the song. Finally, I worked up the courage and told you, 'I love you.' Your voice was shaking too when you said you loved me back, and after that, we were both cheesing all night long.",
+    "image": "/pictures/9.jpg",
+    "theme": {
+      "accent": "#c34f8d",
+      "secondary": "#6f5aa8",
+      "glow": "rgba(195, 79, 141, 0.22)",
+      "paper": "#fff6fc"
+    }
+  },
+  {
+    "date": "Presenting the reason I love Hersh",
+    "day": "May 22, 2026",
+    "title": "I Love Hersh",
+    "place": "Factime!!!",
+    "description": "We ate together on camera and finally started watching the movie we had always been wanting to watch: Avatar. Then you had a secret surprise for me, a presentation you made just to tell me how much you love me. As you went through what felt like an endless list of reasons, I felt like the happiest person on the planet and could not stop cheesing. It left me speechless knowing someone cares about me that much and is so happy I am part of their world.",
+    "image": "",
+    "theme": {
+      "accent": "#2f78aa",
+      "secondary": "#2f9b81",
+      "glow": "rgba(47, 120, 170, 0.22)",
+      "paper": "#f3fbff"
+    }
+  },
+  {
+    "date": "This little website",
+    "day": "May 29, 2026",
+    "title": "Obsession and the Garden of Memories",
+    "place": "Discord!!!",
+    "description": "We started this date by watching the horror movie 'Obsession,' getting pulled into the suspense together. Later, I finally showed you the surprise I had been making: this little website filled with our moments, our stories, and all the tiny things that made us us. I also showed you the video I made of 'her'",
+    "image": "/pictures/11.png",
+    "theme": {
+      "accent": "#75436f",
+      "secondary": "#c24f55",
+      "glow": "rgba(117, 67, 111, 0.22)",
+      "paper": "#fff5fb"
+    }
+  }
+]

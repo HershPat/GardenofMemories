@@ -291,6 +291,27 @@ h2 {
   margin-left: auto;
 }
 
+.memory-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  margin-top: 20px;
+  padding: 0 18px;
+  border: 1px solid color-mix(in srgb, var(--memory-accent) 42%, transparent);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--memory-accent) 10%, #ffffff);
+  color: var(--ink);
+  font-weight: 800;
+  text-decoration: none;
+  box-shadow: 0 12px 32px var(--memory-glow);
+}
+
+.memory-link:hover {
+  border-color: var(--memory-accent);
+  background: color-mix(in srgb, var(--memory-accent) 16%, #ffffff);
+}
+
 .letter-section {
   padding: 72px 20px 92px;
   background:

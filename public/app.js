@@ -248,6 +248,7 @@ async function loadMemories() {
         <h3>${memory.title}</h3>
         <p class="memory-place">${memory.place}</p>
         <p class="memory-description">${memory.description}</p>
+        ${memory.link?.url ? `<a class="memory-link" href="${memory.link.url}" target="_blank" rel="noopener noreferrer">${memory.link.label ?? "Open link"}</a>` : ""}
       </div>
     </article>
   `;
